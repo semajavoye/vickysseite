@@ -1,0 +1,36 @@
+1. Klassen und Container erstellen für die website
+    <div class="meineklasse"></div>
+    //// <div id="meineklasse"></div>
+
+
+
+2. Visual Studio Code Hotkeys lernen
+    Einfach in google eingeben
+
+
+
+3. Css anstatt direkt die Tags anzusprechen, 
+    sprichst du die Klassen an
+    
+    Anstatt:
+
+
+    CSS:
+    img {
+        width: 150px;
+        margin-top: 10px;
+    }
+
+    HTML:
+    <img src="snapimg.jpg" alt="Snapchat Image">
+
+
+    machst du:
+    CSS:
+    .snapchat-img {
+        width: 150px;
+        margin-top: 10px;
+    }
+
+    HTML:
+    <img src="snapimg.jpg" alt="Snapchat Image" class="snapchat-img">
