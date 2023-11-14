@@ -8,8 +8,21 @@
     Einfach in google eingeben
 
 
+3. Style tag aus HTML in extra Datei anlegen
+    https://www.w3schools.com/html/html_css.asp
 
-3. Css anstatt direkt die Tags anzusprechen, 
+    "Internal CSS" ist das was du bereits in der HTML Datei hast (<style> DEIN STYLE IM HTML DOKUMENT </style>)
+
+
+    Lesen ab "External CSS"
+
+    Hilfe:
+        Neue Datei anlegen (name der datei: style.css) und in HTML einbinden:
+        <link rel="stylesheet" href="style.css">
+
+
+
+4. Css anstatt direkt die Tags anzusprechen, 
     sprichst du die Klassen an
     
     Anstatt:
