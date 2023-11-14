@@ -5,7 +5,11 @@
 
 
 2. Visual Studio Code Hotkeys lernen
-    Einfach in google eingeben
+    https://www.youtube.com/watch?v=yXPPw0MeCNA
+
+
+    2:37 bis 4:09 kannst du weglassen (musst du nicht anschauen)
+    Komplett anschauen und notizen nehmen
 
 
 3. Style tag aus HTML in extra Datei anlegen
