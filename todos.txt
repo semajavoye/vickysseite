@@ -1,6 +1,7 @@
 1. Visual Studio Code Hotkeys lernen
     https://www.youtube.com/watch?v=yXPPw0MeCNA
 
+   <u>frage 1--> etwas lost ich weiß aber wie kann man die website durch klicken öffnen</u>
 
     2:37 bis 4:09 kannst du weglassen (musst du nicht anschauen)
 
