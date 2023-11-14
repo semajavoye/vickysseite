@@ -1,16 +1,16 @@
-1. Klassen und Container erstellen für die website
-    <div class="meineklasse"></div>
-    //// <div id="meineklasse"></div>
-
-
-
-2. Visual Studio Code Hotkeys lernen
+1. Visual Studio Code Hotkeys lernen
     https://www.youtube.com/watch?v=yXPPw0MeCNA
 
 
     2:37 bis 4:09 kannst du weglassen (musst du nicht anschauen)
-    
+
     Komplett anschauen und notizen nehmen
+
+
+2. Klassen und Container erstellen für die website
+    <div class="meineklasse"></div>
+    //// <div id="meineklasse"></div>
+
 
 
 3. Style tag aus HTML in extra Datei anlegen
